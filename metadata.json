@@ -1,0 +1,6 @@
+{
+  "name": "RIANDARU — Modern Minimalist Portfolio",
+  "description": "Portofolio pribadi modern minimalis untuk desainer digital RIANDARU dengan animasi halus React, Tailwind CSS, dan Framer Motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
